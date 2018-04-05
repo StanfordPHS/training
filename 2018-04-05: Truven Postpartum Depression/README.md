@@ -28,7 +28,7 @@ We now have a set of identifiers for individuals who meet our criteria for postp
 Once we have the table(s) that we want to export, we can [upgrade our project](https://help.redivis.com/for-researchers/querying-data/samples.html) to use the full data sample, and then [export](https://help.redivis.com/for-researchers/querying-data/exports.html) our final table. Truven data may only be exported to the [PHS compute environment](https://web.stanford.edu/group/phs-dc/cgi-bin/wordpress/phs-windows-server/) — once remote logging in to the server, just navigate to your project on Redivis in the Chrome browser, and click the export button. You will not be able to download or export Truven data to your computer at any time.
 
 
-### Thank You!  
+## Thank You!  
 Our next training is on Thursday 19 April, 4-6pm, LKSC 304/305 ([sign up](https://calendly.com/phsdatacore/phs-training/04-05-2018?back=1)). Please help us spread the work by telling your friends and colleagues who may be interested in working with PHS data!
 
 Questions? Comments? Feedback? Please consult the links in [this repo's README](https://github.com/StanfordPHS/training) to consult our varied support resources. If you have any specific feedback on how we might make these trainings better, you can email [Emma](mailto:emma.hallgren@stanford.edu) or [Ian](mailto:ian@redivis.com)
