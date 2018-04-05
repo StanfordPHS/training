@@ -5,7 +5,7 @@ This document intentionally leaves out any mention of variable names for securit
 
 
 ## Step 1: Identifying our tables
-You can explore a variety of datasets offered by PHS at [phsdata.stanford.edu](phsdata.stanford.edu). For this example, we will be using two tables from the [Truven Dataset Group](https://redivis.com/StanfordPHS/Truven):
+You can explore a variety of datasets offered by PHS at [phsdata.stanford.edu](https://phsdata.stanford.edu). For this example, we will be using two tables from the [Truven Dataset Group](https://redivis.com/StanfordPHS/Truven):
 
 #### [Truven Inpatient Services](https://redivis.com/StanfordPHS/Truven/Truven-Inpatient-Services)
 This table contains a record for every service event associated with an inpatient admission. Because deliveries are an inpatient occurrence; this is where we can find all individuals within Truven who have had a delivery.
