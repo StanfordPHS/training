@@ -15,7 +15,7 @@ Depression diagnoses are generally associated with outpatient care. We will use 
 
 
 ## Step 2: Create initial cohort
-Using the Redivis project tool ([documentation](https://help.redivis.com/for-researchers/querying-data.html)), we will select all individuals who have the relevant ICD-9 and CPT codes for a delivery or depression event. These codes can be found in `Codes.csv` within this directory. We will then join all individuals who have a depression event in the `Inpatient` table with those who have a depression event in the `Outpatient` table.
+Using the Redivis project tool ([documentation](https://help.redivis.com/for-researchers/querying-data.html)), we will select all individuals who have the relevant ICD-9 and CPT codes for a delivery or depression event. These codes can be found in `Codes.tsv` within this directory. We will then join all individuals who have a depression event in the `Inpatient` table with those who have a depression event in the `Outpatient` table.
 **NB:** These code lists are not comprehensive, and are for demonstration purposes only. Do not use these lists for your research.
 
 ## Step 3: Apply diagnostic criteria
@@ -29,6 +29,6 @@ Once we have the table(s) that we want to export, we can [upgrade our project](h
 
 
 ## Thank You!  
-Our next training is on Thursday 19 April, 4-6pm, LKSC 304/305 ([sign up](https://calendly.com/phsdatacore/phs-training/04-05-2018?back=1)). Please help us spread the work by telling your friends and colleagues who may be interested in working with PHS data!
+You can find our training schedule and sign up for future trainings ([here](https://calendly.com/phsdatacore/phs-training)). Please help us spread the work by telling your friends and colleagues who may be interested in working with PHS data! You can also come to office hours and other PHS training events, listed ([here](https://calendly.com/phsdatacore))
 
 Questions? Comments? Feedback? Please consult the links in [this repo's README](https://github.com/StanfordPHS/training) to consult our varied support resources. If you have any specific feedback on how we might make these trainings better, you can email [Emma](mailto:emma.hallgren@stanford.edu) or [Ian](mailto:ian@redivis.com)
